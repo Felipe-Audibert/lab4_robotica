@@ -1,0 +1,39 @@
+[0.668s] Invoking command in '/root/ros2_ws/src/turtle_control_FRA': PYTHONPATH=/root/ros2_ws/build/turtle_control_FRA/prefix_override:/root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_control_FRA build --build-base /root/ros2_ws/build/turtle_control_FRA/build install --record /root/ros2_ws/build/turtle_control_FRA/install.log --single-version-externally-managed
+[0.859s] running egg_info
+[0.859s] creating ../../build/turtle_control_FRA/turtle_control_FRA.egg-info
+[0.859s] writing ../../build/turtle_control_FRA/turtle_control_FRA.egg-info/PKG-INFO
+[0.860s] writing dependency_links to ../../build/turtle_control_FRA/turtle_control_FRA.egg-info/dependency_links.txt
+[0.860s] writing entry points to ../../build/turtle_control_FRA/turtle_control_FRA.egg-info/entry_points.txt
+[0.860s] writing requirements to ../../build/turtle_control_FRA/turtle_control_FRA.egg-info/requires.txt
+[0.860s] writing top-level names to ../../build/turtle_control_FRA/turtle_control_FRA.egg-info/top_level.txt
+[0.860s] writing manifest file '../../build/turtle_control_FRA/turtle_control_FRA.egg-info/SOURCES.txt'
+[0.861s] reading manifest file '../../build/turtle_control_FRA/turtle_control_FRA.egg-info/SOURCES.txt'
+[0.862s] writing manifest file '../../build/turtle_control_FRA/turtle_control_FRA.egg-info/SOURCES.txt'
+[0.862s] running build
+[0.862s] running build_py
+[0.862s] creating /root/ros2_ws/build/turtle_control_FRA/build
+[0.862s] creating /root/ros2_ws/build/turtle_control_FRA/build/lib
+[0.862s] creating /root/ros2_ws/build/turtle_control_FRA/build/lib/turtle_control_FRA
+[0.862s] copying turtle_control_FRA/turtle_control.py -> /root/ros2_ws/build/turtle_control_FRA/build/lib/turtle_control_FRA
+[0.862s] copying turtle_control_FRA/__init__.py -> /root/ros2_ws/build/turtle_control_FRA/build/lib/turtle_control_FRA
+[0.862s] running install
+[0.863s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.863s]   warnings.warn(
+[0.863s] running install_lib
+[0.864s] creating /root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages/turtle_control_FRA
+[0.864s] copying /root/ros2_ws/build/turtle_control_FRA/build/lib/turtle_control_FRA/turtle_control.py -> /root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages/turtle_control_FRA
+[0.864s] copying /root/ros2_ws/build/turtle_control_FRA/build/lib/turtle_control_FRA/__init__.py -> /root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages/turtle_control_FRA
+[0.864s] byte-compiling /root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages/turtle_control_FRA/turtle_control.py to turtle_control.cpython-310.pyc
+[0.865s] byte-compiling /root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages/turtle_control_FRA/__init__.py to __init__.cpython-310.pyc
+[0.865s] running install_data
+[0.865s] creating /root/ros2_ws/install/turtle_control_FRA/share/ament_index
+[0.865s] creating /root/ros2_ws/install/turtle_control_FRA/share/ament_index/resource_index
+[0.865s] creating /root/ros2_ws/install/turtle_control_FRA/share/ament_index/resource_index/packages
+[0.865s] copying resource/turtle_control_FRA -> /root/ros2_ws/install/turtle_control_FRA/share/ament_index/resource_index/packages
+[0.865s] copying package.xml -> /root/ros2_ws/install/turtle_control_FRA/share/turtle_control_FRA
+[0.866s] running install_egg_info
+[0.867s] Copying ../../build/turtle_control_FRA/turtle_control_FRA.egg-info to /root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages/turtle_control_FRA-0.0.0-py3.10.egg-info
+[0.867s] running install_scripts
+[0.884s] Installing turtle_control script to /root/ros2_ws/install/turtle_control_FRA/lib/turtle_control_FRA
+[0.884s] writing list of installed files to '/root/ros2_ws/build/turtle_control_FRA/install.log'
+[0.907s] Invoked command in '/root/ros2_ws/src/turtle_control_FRA' returned '0': PYTHONPATH=/root/ros2_ws/build/turtle_control_FRA/prefix_override:/root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_control_FRA build --build-base /root/ros2_ws/build/turtle_control_FRA/build install --record /root/ros2_ws/build/turtle_control_FRA/install.log --single-version-externally-managed

@@ -1,0 +1,67 @@
+[0.000000] (-) TimerEvent: {}
+[0.001248] (turtle_control_FRA) JobQueued: {'identifier': 'turtle_control_FRA', 'dependencies': OrderedDict()}
+[0.001775] (turtle_control_Nome) JobQueued: {'identifier': 'turtle_control_Nome', 'dependencies': OrderedDict()}
+[0.001820] (turtle_control_FRA) JobStarted: {'identifier': 'turtle_control_FRA'}
+[0.014849] (turtle_control_Nome) JobStarted: {'identifier': 'turtle_control_Nome'}
+[0.099803] (-) TimerEvent: {}
+[0.200084] (-) TimerEvent: {}
+[0.300380] (-) TimerEvent: {}
+[0.400679] (-) TimerEvent: {}
+[0.500957] (-) TimerEvent: {}
+[0.601221] (-) TimerEvent: {}
+[0.699858] (turtle_control_Nome) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/turtle_control_Nome', 'build', '--build-base', '/root/ros2_ws/build/turtle_control_Nome/build', 'install', '--record', '/root/ros2_ws/build/turtle_control_Nome/install.log', '--single-version-externally-managed'], 'cwd': '/root/ros2_ws/src/turtle_control_Nome', 'env': {'HOSTNAME': 'felipe', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/root', 'OLDPWD': '/root', 'ROS_PYTHON_VERSION': '3', 'ROS_DISTRO': 'humble', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'DISPLAY': ':1', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'PWD': '/root/ros2_ws/build/turtle_control_Nome', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/root/ros2_ws/build/turtle_control_Nome/prefix_override:/root/ros2_ws/install/turtle_control_Nome/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[0.701306] (-) TimerEvent: {}
+[0.722179] (turtle_control_FRA) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/turtle_control_FRA', 'build', '--build-base', '/root/ros2_ws/build/turtle_control_FRA/build', 'install', '--record', '/root/ros2_ws/build/turtle_control_FRA/install.log', '--single-version-externally-managed'], 'cwd': '/root/ros2_ws/src/turtle_control_FRA', 'env': {'HOSTNAME': 'felipe', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/root', 'OLDPWD': '/root', 'ROS_PYTHON_VERSION': '3', 'ROS_DISTRO': 'humble', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'DISPLAY': ':1', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'PWD': '/root/ros2_ws/build/turtle_control_FRA', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/root/ros2_ws/build/turtle_control_FRA/prefix_override:/root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[0.801399] (-) TimerEvent: {}
+[0.901648] (-) TimerEvent: {}
+[0.923704] (turtle_control_Nome) StdoutLine: {'line': b'running egg_info\n'}
+[0.924401] (turtle_control_Nome) StdoutLine: {'line': b'writing ../../build/turtle_control_Nome/turtle_control_Nome.egg-info/PKG-INFO\n'}
+[0.924582] (turtle_control_Nome) StdoutLine: {'line': b'writing dependency_links to ../../build/turtle_control_Nome/turtle_control_Nome.egg-info/dependency_links.txt\n'}
+[0.924692] (turtle_control_Nome) StdoutLine: {'line': b'writing entry points to ../../build/turtle_control_Nome/turtle_control_Nome.egg-info/entry_points.txt\n'}
+[0.924773] (turtle_control_Nome) StdoutLine: {'line': b'writing requirements to ../../build/turtle_control_Nome/turtle_control_Nome.egg-info/requires.txt\n'}
+[0.924844] (turtle_control_Nome) StdoutLine: {'line': b'writing top-level names to ../../build/turtle_control_Nome/turtle_control_Nome.egg-info/top_level.txt\n'}
+[0.926960] (turtle_control_Nome) StdoutLine: {'line': b"reading manifest file '../../build/turtle_control_Nome/turtle_control_Nome.egg-info/SOURCES.txt'\n"}
+[0.927766] (turtle_control_Nome) StdoutLine: {'line': b"writing manifest file '../../build/turtle_control_Nome/turtle_control_Nome.egg-info/SOURCES.txt'\n"}
+[0.927874] (turtle_control_Nome) StdoutLine: {'line': b'running build\n'}
+[0.927950] (turtle_control_Nome) StdoutLine: {'line': b'running build_py\n'}
+[0.928205] (turtle_control_Nome) StdoutLine: {'line': b'running install\n'}
+[0.928380] (turtle_control_Nome) StderrLine: {'line': b'/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.\n'}
+[0.928530] (turtle_control_Nome) StderrLine: {'line': b'  warnings.warn(\n'}
+[0.928702] (turtle_control_Nome) StdoutLine: {'line': b'running install_lib\n'}
+[0.930233] (turtle_control_Nome) StdoutLine: {'line': b'running install_data\n'}
+[0.930658] (turtle_control_Nome) StdoutLine: {'line': b'running install_egg_info\n'}
+[0.931777] (turtle_control_Nome) StdoutLine: {'line': b"removing '/root/ros2_ws/install/turtle_control_Nome/lib/python3.10/site-packages/turtle_control_Nome-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[0.931976] (turtle_control_Nome) StdoutLine: {'line': b'Copying ../../build/turtle_control_Nome/turtle_control_Nome.egg-info to /root/ros2_ws/install/turtle_control_Nome/lib/python3.10/site-packages/turtle_control_Nome-0.0.0-py3.10.egg-info\n'}
+[0.932647] (turtle_control_Nome) StdoutLine: {'line': b'running install_scripts\n'}
+[0.934117] (turtle_control_FRA) StdoutLine: {'line': b'running egg_info\n'}
+[0.934741] (turtle_control_FRA) StdoutLine: {'line': b'writing ../../build/turtle_control_FRA/turtle_control_FRA.egg-info/PKG-INFO\n'}
+[0.934936] (turtle_control_FRA) StdoutLine: {'line': b'writing dependency_links to ../../build/turtle_control_FRA/turtle_control_FRA.egg-info/dependency_links.txt\n'}
+[0.935122] (turtle_control_FRA) StdoutLine: {'line': b'writing entry points to ../../build/turtle_control_FRA/turtle_control_FRA.egg-info/entry_points.txt\n'}
+[0.935248] (turtle_control_FRA) StdoutLine: {'line': b'writing requirements to ../../build/turtle_control_FRA/turtle_control_FRA.egg-info/requires.txt\n'}
+[0.935326] (turtle_control_FRA) StdoutLine: {'line': b'writing top-level names to ../../build/turtle_control_FRA/turtle_control_FRA.egg-info/top_level.txt\n'}
+[0.936481] (turtle_control_FRA) StdoutLine: {'line': b"reading manifest file '../../build/turtle_control_FRA/turtle_control_FRA.egg-info/SOURCES.txt'\n"}
+[0.937217] (turtle_control_FRA) StdoutLine: {'line': b"writing manifest file '../../build/turtle_control_FRA/turtle_control_FRA.egg-info/SOURCES.txt'\n"}
+[0.937401] (turtle_control_FRA) StdoutLine: {'line': b'running build\n'}
+[0.937490] (turtle_control_FRA) StdoutLine: {'line': b'running build_py\n'}
+[0.937592] (turtle_control_FRA) StdoutLine: {'line': b'copying turtle_control_FRA/turtle_control.py -> /root/ros2_ws/build/turtle_control_FRA/build/lib/turtle_control_FRA\n'}
+[0.938237] (turtle_control_FRA) StdoutLine: {'line': b'running install\n'}
+[0.938703] (turtle_control_FRA) StderrLine: {'line': b'/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.\n'}
+[0.938910] (turtle_control_FRA) StderrLine: {'line': b'  warnings.warn(\n'}
+[0.939144] (turtle_control_FRA) StdoutLine: {'line': b'running install_lib\n'}
+[0.939903] (turtle_control_FRA) StdoutLine: {'line': b'copying /root/ros2_ws/build/turtle_control_FRA/build/lib/turtle_control_FRA/turtle_control.py -> /root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages/turtle_control_FRA\n'}
+[0.940467] (turtle_control_FRA) StdoutLine: {'line': b'byte-compiling /root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages/turtle_control_FRA/turtle_control.py to turtle_control.cpython-310.pyc\n'}
+[0.941066] (turtle_control_FRA) StdoutLine: {'line': b'running install_data\n'}
+[0.941448] (turtle_control_FRA) StdoutLine: {'line': b'running install_egg_info\n'}
+[0.943024] (turtle_control_FRA) StdoutLine: {'line': b"removing '/root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages/turtle_control_FRA-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[0.943202] (turtle_control_FRA) StdoutLine: {'line': b'Copying ../../build/turtle_control_FRA/turtle_control_FRA.egg-info to /root/ros2_ws/install/turtle_control_FRA/lib/python3.10/site-packages/turtle_control_FRA-0.0.0-py3.10.egg-info\n'}
+[0.943832] (turtle_control_FRA) StdoutLine: {'line': b'running install_scripts\n'}
+[0.953891] (turtle_control_Nome) StdoutLine: {'line': b'Installing turtle_control script to /root/ros2_ws/install/turtle_control_Nome/lib/turtle_control_Nome\n'}
+[0.954253] (turtle_control_Nome) StdoutLine: {'line': b"writing list of installed files to '/root/ros2_ws/build/turtle_control_Nome/install.log'\n"}
+[0.965853] (turtle_control_FRA) StdoutLine: {'line': b'Installing turtle_control script to /root/ros2_ws/install/turtle_control_FRA/lib/turtle_control_FRA\n'}
+[0.966096] (turtle_control_FRA) StdoutLine: {'line': b"writing list of installed files to '/root/ros2_ws/build/turtle_control_FRA/install.log'\n"}
+[0.979655] (turtle_control_Nome) CommandEnded: {'returncode': 0}
+[0.992898] (turtle_control_Nome) JobEnded: {'identifier': 'turtle_control_Nome', 'rc': 0}
+[0.995360] (turtle_control_FRA) CommandEnded: {'returncode': 0}
+[1.001710] (turtle_control_FRA) JobEnded: {'identifier': 'turtle_control_FRA', 'rc': 0}
+[1.002191] (-) TimerEvent: {}
+[1.002253] (-) EventReactorShutdown: {}

@@ -1,0 +1,39 @@
+[0.658s] Invoking command in '/root/ros2_ws/src/turtle_control_Nome': PYTHONPATH=/root/ros2_ws/build/turtle_control_Nome/prefix_override:/root/ros2_ws/install/turtle_control_Nome/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_control_Nome build --build-base /root/ros2_ws/build/turtle_control_Nome/build install --record /root/ros2_ws/build/turtle_control_Nome/install.log --single-version-externally-managed
+[0.853s] running egg_info
+[0.853s] creating ../../build/turtle_control_Nome/turtle_control_Nome.egg-info
+[0.853s] writing ../../build/turtle_control_Nome/turtle_control_Nome.egg-info/PKG-INFO
+[0.853s] writing dependency_links to ../../build/turtle_control_Nome/turtle_control_Nome.egg-info/dependency_links.txt
+[0.853s] writing entry points to ../../build/turtle_control_Nome/turtle_control_Nome.egg-info/entry_points.txt
+[0.853s] writing requirements to ../../build/turtle_control_Nome/turtle_control_Nome.egg-info/requires.txt
+[0.854s] writing top-level names to ../../build/turtle_control_Nome/turtle_control_Nome.egg-info/top_level.txt
+[0.854s] writing manifest file '../../build/turtle_control_Nome/turtle_control_Nome.egg-info/SOURCES.txt'
+[0.855s] reading manifest file '../../build/turtle_control_Nome/turtle_control_Nome.egg-info/SOURCES.txt'
+[0.856s] writing manifest file '../../build/turtle_control_Nome/turtle_control_Nome.egg-info/SOURCES.txt'
+[0.856s] running build
+[0.856s] running build_py
+[0.856s] creating /root/ros2_ws/build/turtle_control_Nome/build
+[0.856s] creating /root/ros2_ws/build/turtle_control_Nome/build/lib
+[0.856s] creating /root/ros2_ws/build/turtle_control_Nome/build/lib/turtle_control_Nome
+[0.856s] copying turtle_control_Nome/turtle_control.py -> /root/ros2_ws/build/turtle_control_Nome/build/lib/turtle_control_Nome
+[0.857s] copying turtle_control_Nome/__init__.py -> /root/ros2_ws/build/turtle_control_Nome/build/lib/turtle_control_Nome
+[0.857s] running install
+[0.857s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.857s]   warnings.warn(
+[0.857s] running install_lib
+[0.858s] creating /root/ros2_ws/install/turtle_control_Nome/lib/python3.10/site-packages/turtle_control_Nome
+[0.858s] copying /root/ros2_ws/build/turtle_control_Nome/build/lib/turtle_control_Nome/turtle_control.py -> /root/ros2_ws/install/turtle_control_Nome/lib/python3.10/site-packages/turtle_control_Nome
+[0.858s] copying /root/ros2_ws/build/turtle_control_Nome/build/lib/turtle_control_Nome/__init__.py -> /root/ros2_ws/install/turtle_control_Nome/lib/python3.10/site-packages/turtle_control_Nome
+[0.858s] byte-compiling /root/ros2_ws/install/turtle_control_Nome/lib/python3.10/site-packages/turtle_control_Nome/turtle_control.py to turtle_control.cpython-310.pyc
+[0.859s] byte-compiling /root/ros2_ws/install/turtle_control_Nome/lib/python3.10/site-packages/turtle_control_Nome/__init__.py to __init__.cpython-310.pyc
+[0.859s] running install_data
+[0.859s] creating /root/ros2_ws/install/turtle_control_Nome/share/ament_index
+[0.859s] creating /root/ros2_ws/install/turtle_control_Nome/share/ament_index/resource_index
+[0.859s] creating /root/ros2_ws/install/turtle_control_Nome/share/ament_index/resource_index/packages
+[0.859s] copying resource/turtle_control_Nome -> /root/ros2_ws/install/turtle_control_Nome/share/ament_index/resource_index/packages
+[0.859s] copying package.xml -> /root/ros2_ws/install/turtle_control_Nome/share/turtle_control_Nome
+[0.859s] running install_egg_info
+[0.861s] Copying ../../build/turtle_control_Nome/turtle_control_Nome.egg-info to /root/ros2_ws/install/turtle_control_Nome/lib/python3.10/site-packages/turtle_control_Nome-0.0.0-py3.10.egg-info
+[0.861s] running install_scripts
+[0.879s] Installing turtle_control script to /root/ros2_ws/install/turtle_control_Nome/lib/turtle_control_Nome
+[0.879s] writing list of installed files to '/root/ros2_ws/build/turtle_control_Nome/install.log'
+[0.916s] Invoked command in '/root/ros2_ws/src/turtle_control_Nome' returned '0': PYTHONPATH=/root/ros2_ws/build/turtle_control_Nome/prefix_override:/root/ros2_ws/install/turtle_control_Nome/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_control_Nome build --build-base /root/ros2_ws/build/turtle_control_Nome/build install --record /root/ros2_ws/build/turtle_control_Nome/install.log --single-version-externally-managed
